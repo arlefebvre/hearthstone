@@ -1,2 +1,17 @@
-# hearthstone
-My hearthstone decks
+### Basic Deck - Valeera Sanguinar
+
+* **2** x [Ironforge Rifleman](http://www.hearthpwn.com/cards/41-ironforge-rifleman)
+* **2** x [Boulderfist Ogre](http://www.hearthpwn.com/cards/60-boulderfist-ogre)
+* **2** x [Deadly Poison](http://www.hearthpwn.com/cards/87-deadly-poison)
+* **2** x [Nightblade](http://www.hearthpwn.com/cards/184-nightblade)
+* **2** x [Sinister Strike](http://www.hearthpwn.com/cards/205-sinister-strike)
+* **2** x [Gnomish Inventor](http://www.hearthpwn.com/cards/246-gnomish-inventor)
+* **2** x [Stormpike Commando](http://www.hearthpwn.com/cards/325-stormpike-commando)
+* **2** x [Elven Archer](http://www.hearthpwn.com/cards/356-elven-archer)
+* **2** x [Sap](http://www.hearthpwn.com/cards/385-sap)
+* **2** x [Novice Engineer](http://www.hearthpwn.com/cards/435-novice-engineer)
+* **2** x [Backstab](http://www.hearthpwn.com/cards/471-backstab)
+* **2** x [Dragonling Mechanic](http://www.hearthpwn.com/cards/472-dragonling-mechanic)
+* **2** x [Goldshire Footman](http://www.hearthpwn.com/cards/564-goldshire-footman)
+* **2** x [Assassinate](http://www.hearthpwn.com/cards/568-assassinate)
+* **2** x [Bloodfen Raptor](http://www.hearthpwn.com/cards/576-bloodfen-raptor)
