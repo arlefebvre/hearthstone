@@ -1,2 +1,17 @@
-# hearthstone
-My hearthstone decks
+### Basic Deck - Malfurion Stormrage
+
+* **2** x [Oasis Snapjaw](http://www.hearthpwn.com/cards/15-oasis-snapjaw)
+* **2** x [Boulderfist Ogre](http://www.hearthpwn.com/cards/60-boulderfist-ogre)
+* **2** x [Stonetusk Boar](http://www.hearthpwn.com/cards/76-stonetusk-boar)
+* **2** x [Core Hound](http://www.hearthpwn.com/cards/173-core-hound)
+* **2** x [Nightblade](http://www.hearthpwn.com/cards/184-nightblade)
+* **2** x [Healing Touch](http://www.hearthpwn.com/cards/258-healing-touch)
+* **2** x [Wild Growth](http://www.hearthpwn.com/cards/282-wild-growth)
+* **2** x [Elven Archer](http://www.hearthpwn.com/cards/356-elven-archer)
+* **2** x [Lord of the Arena](http://www.hearthpwn.com/cards/414-lord-of-the-arena)
+* **2** x [Mark of the Wild](http://www.hearthpwn.com/cards/480-mark-of-the-wild)
+* **2** x [Claw](http://www.hearthpwn.com/cards/532-claw)
+* **2** x [River Crocolisk](http://www.hearthpwn.com/cards/535-river-crocolisk)
+* **2** x [Innervate](http://www.hearthpwn.com/cards/548-innervate)
+* **2** x [Bloodfen Raptor](http://www.hearthpwn.com/cards/576-bloodfen-raptor)
+* **2** x [Silverback Patriarch](http://www.hearthpwn.com/cards/611-silverback-patriarch)
