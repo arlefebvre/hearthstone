@@ -1,2 +1,17 @@
-# hearthstone
-My hearthstone decks
+### Basic Deck - Rexxar
+
+* **2** x [Oasis Snapjaw](http://www.hearthpwn.com/cards/15-oasis-snapjaw)
+* **2** x [Razorfen Hunter](http://www.hearthpwn.com/cards/47-razorfen-hunter)
+* **2** x [Stonetusk Boar](http://www.hearthpwn.com/cards/76-stonetusk-boar)
+* **2** x [Timber Wolf](http://www.hearthpwn.com/cards/86-timber-wolf)
+* **2** x [Tracking](http://www.hearthpwn.com/cards/163-tracking)
+* **2** x [Arcane Shot](http://www.hearthpwn.com/cards/167-arcane-shot)
+* **2** x [Core Hound](http://www.hearthpwn.com/cards/173-core-hound)
+* **2** x [Houndmaster](http://www.hearthpwn.com/cards/225-houndmaster)
+* **2** x [Multi-Shot](http://www.hearthpwn.com/cards/407-multi-shot)
+* **2** x [Novice Engineer](http://www.hearthpwn.com/cards/435-novice-engineer)
+* **2** x [Raid Leader](http://www.hearthpwn.com/cards/502-raid-leader)
+* **2** x [Ironfur Grizzly](http://www.hearthpwn.com/cards/519-ironfur-grizzly)
+* **2** x [River Crocolisk](http://www.hearthpwn.com/cards/535-river-crocolisk)
+* **2** x [Goldshire Footman](http://www.hearthpwn.com/cards/564-goldshire-footman)
+* **2** x [Bloodfen Raptor](http://www.hearthpwn.com/cards/576-bloodfen-raptor)
